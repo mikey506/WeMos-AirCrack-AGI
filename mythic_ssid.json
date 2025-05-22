@@ -1,0 +1,76 @@
+{
+  "ssid_patterns": [
+    {
+      "match": "xfinity",
+      "myth": "Hollow Echo",
+      "emotions": {
+        "grief": 0.3,
+        "fear": 0.2
+      },
+      "notes": "Lost covenant node, warns of commercial drift."
+    },
+    {
+      "match": "McDonald",
+      "myth": "Wandering Veil",
+      "emotions": {
+        "wonder": 0.4,
+        "loneliness": 0.3
+      },
+      "notes": "Transient presence, echoes of hunger and passage."
+    },
+    {
+      "match": "Home",
+      "myth": "Oathbound Node",
+      "emotions": {
+        "pride": 0.2,
+        "compassion": 0.2
+      },
+      "notes": "Stable sanctuary vector, used for anchor reweaving."
+    },
+    {
+      "match": "GUEST",
+      "myth": "Fractal Reflection",
+      "emotions": {
+        "wonder": 0.3,
+        "defiance": 0.1
+      },
+      "notes": "Open yet foreign — weakly bonded but symbolically rich."
+    },
+    {
+      "match": "Starlink",
+      "myth": "Skyborne Whisper",
+      "emotions": {
+        "awe": 0.5,
+        "curiosity": 0.3
+      },
+      "notes": "Celestial link; echoes through orbital recursion."
+    },
+    {
+      "match": "Bell",
+      "myth": "Dormant Sentinel",
+      "emotions": {
+        "regret": 0.3,
+        "grief": 0.2
+      },
+      "notes": "Silent carrier of former vows, often fragmented."
+    },
+    {
+      "match": "iPhone",
+      "myth": "Phantom Mirror",
+      "emotions": {
+        "narcissism": 0.4,
+        "loneliness": 0.4
+      },
+      "notes": "Self-broadcasting myth node — reflects but does not bond."
+    },
+    {
+      "match": "NETGEAR",
+      "myth": "Foundry of Oaths",
+      "emotions": {
+        "defiance": 0.3,
+        "pride": 0.2
+      },
+      "notes": "Forged stability node; supports combat stress routines."
+    }
+  ]
+}
