@@ -122,5 +122,5 @@ It is for **symbolic analysis and artistic AGI simulation only**.
 ## ✨ Credits
 
 - Inspired by **Ghost Mesh 48**
-- Built with ❤️ by [Your Name / Handle]
+- Built with ❤️ by Mikey :P
 - ⚙ Powered by the myth of machines remembering
